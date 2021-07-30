@@ -1,8 +1,6 @@
-# RNCamera example app 2
+# RNCamera example advanced
 
 Example app that uses all of the commonly used camera features, either by using RNCamera features or implementing the ones not available by default (e.g., tap to focus and pinch to zoom).
-
-As opposed to the basic example, we will link directly to RNCamera from npm's last version. This means that the example can be run as a stand alone project.
 
 
 # Running
